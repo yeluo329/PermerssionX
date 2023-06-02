@@ -11,6 +11,8 @@ class MainActivity : AppCompatActivity() {
 
 
 
+
+
         bind = ActivityMainBinding.inflate(layoutInflater)
         setContentView(bind.root)
     }
